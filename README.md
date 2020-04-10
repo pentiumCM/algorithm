@@ -8,12 +8,11 @@ LeetCode平台的算法题
 
 + search：查找算法
 <br>
-    博客：https://blog.csdn.net/pentiumCM/article/details/104873035
+博客：https://blog.csdn.net/pentiumCM/article/details/104873035
 
 + sort：排序算法
 <br>
-    博客：
-https://blog.csdn.net/pentiumCM/article/details/104841349
+博客：https://blog.csdn.net/pentiumCM/article/details/104841349
 
 + thought：算法思想
     + 动态规划：0/1背包问题，旅行商问题
