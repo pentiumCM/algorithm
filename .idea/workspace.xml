@@ -5,7 +5,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3441fb0-e0d9-44ee-9dc3-862fec187991" name="Default Changelist" comment="" />
+    <list default="true" id="d3441fb0-e0d9-44ee-9dc3-862fec187991" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,10 +205,22 @@
       <workItem from="1586438181586" duration="6802000" />
       <workItem from="1586481718608" duration="21300000" />
     </task>
+    <task id="LOCAL-00001" summary="去除out文件">
+      <created>1586511473312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586511473312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="去除out文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="去除out文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584276717892">
@@ -217,6 +231,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585618044609" />
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1586511471655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586511471655" />
     <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586499663797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -269,10 +287,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="193" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586504646481" />
+    <state x="410" y="77" key="RollbackChangesDialog" timestamp="1586511606407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="77" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586511606407" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1585727528177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585727528177" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586511491403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586511491403" />
     <state x="230" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585575502565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
