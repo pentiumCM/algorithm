@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d3441fb0-e0d9-44ee-9dc3-862fec187991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586511473312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="去除out文件">
+      <created>1586511652540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586511652540</updated>
+    </task>
+    <task id="LOCAL-00003" summary="去除out文件">
+      <created>1586511717500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586511717500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,10 +246,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585618044609" />
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1586511651124">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1586511715926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586511651124" />
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586511715926" />
     <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586499663797">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -295,10 +310,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585727528177" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586511654919">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586511719194">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586511654919" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586511719194" />
     <state x="230" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585575502565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
