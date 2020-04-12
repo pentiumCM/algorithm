@@ -9,6 +9,7 @@ LeetCode平台的算法题
 + search：查找算法
 <br>
 博客：https://blog.csdn.net/pentiumCM/article/details/104873035
+    
     + 深度优先搜索
     
     + 广度优先搜索
@@ -17,8 +18,8 @@ LeetCode平台的算法题
 
 
 + sort：排序算法
-<br>
-博客：https://blog.csdn.net/pentiumCM/article/details/104841349
+    博客：https://blog.csdn.net/pentiumCM/article/details/104841349
+    
     + top10 排序算法 
 <br>
 
