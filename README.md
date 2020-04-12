@@ -5,6 +5,9 @@ LeetCode平台的算法题
 
 + nowcoder：
 牛客网平台的算法题
+    + bytedance：字节跳动历年算法编程题
+    
+    + tencent：腾讯历年算法编程题
 
 + search：查找算法
 

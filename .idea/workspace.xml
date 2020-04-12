@@ -65,6 +65,7 @@
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpBack.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpTSP.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -265,7 +266,7 @@
       <workItem from="1586438181586" duration="6802000" />
       <workItem from="1586481718608" duration="21300000" />
       <workItem from="1586614129635" duration="6521000" />
-      <workItem from="1586650993735" duration="17066000" />
+      <workItem from="1586650993735" duration="17440000" />
     </task>
     <task id="LOCAL-00001" summary="去除out文件">
       <created>1586511473312</created>
@@ -309,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586682910171</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改REAMNE文件">
+      <created>1586683097743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586683097743</updated>
+    </task>
+    <task id="LOCAL-00008" summary="修改REAMNE文件">
+      <created>1586683259416</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586683259416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,10 +346,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585618044609" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1586683095733">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1586683488090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586683095733" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586683488090" />
     <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586682066563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -399,10 +414,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585727528177" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586683100693">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586683261816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586683100693" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586683261816" />
     <state x="230" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585575502565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
