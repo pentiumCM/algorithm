@@ -1,4 +1,4 @@
-package indi.pentiumcm;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @date: 2020/3/11 21:32
  * @describe: 字节跳动 - 2018后端2面 -Q1
  */
-public class eighteen_Q1 {
+public class Byte_18_Q1 {
 
     /**
      * 执行查询

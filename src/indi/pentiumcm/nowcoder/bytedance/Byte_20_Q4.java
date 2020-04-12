@@ -1,4 +1,4 @@
-package indi.pentiumcm;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @date: 2020/3/15 19:16
  * @describe: 第四题
  */
-public class Q4 {
+public class Byte_20_Q4 {
 
     /**
      * 判断操作是否合法

@@ -1,4 +1,4 @@
-package indi.pentiumcm;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.*;
 
@@ -11,7 +11,7 @@ import java.util.*;
  * @date: 2020/3/11 23:04
  * @describe:
  */
-public class eighteen_Q1Ref {
+public class Byte_18_Q1Ref {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

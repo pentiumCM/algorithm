@@ -6,8 +6,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3441fb0-e0d9-44ee-9dc3-862fec187991" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/Q9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/leetcode/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nineteen_Q6Ref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1Ref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2Ref.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_19_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/search/BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/search/BinaryTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/search/BinaryTreeTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/search/DFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/search/SearchUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/sort/SortUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/BtBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/BtPerm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpTSP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/leetcode/Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/leetcode/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BinaryTreeTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1Ref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q2Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2Ref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +133,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Byte_19_7">
-    <configuration name="Byte_19_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.nowcoder.bytedance.Byte_19_3" />
+  <component name="RunManager" selected="Application.Q23">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.search.BFS" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indi.pentiumcm.nowcoder.bytedance.*" />
+          <option name="PATTERN" value="indi.pentiumcm.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Byte_19_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.nowcoder.bytedance.Byte_19_5" />
+    <configuration name="BinaryTreeTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.search.BinaryTreeTraverse" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indi.pentiumcm.nowcoder.bytedance.*" />
+          <option name="PATTERN" value="indi.pentiumcm.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Byte_19_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.nowcoder.bytedance.Byte_19_6" />
+    <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.search.DFS" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indi.pentiumcm.nowcoder.bytedance.*" />
+          <option name="PATTERN" value="indi.pentiumcm.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Byte_19_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.nowcoder.bytedance.Byte_19_7" />
+    <configuration name="Q22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.leetcode.Q22" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indi.pentiumcm.nowcoder.bytedance.*" />
+          <option name="PATTERN" value="indi.pentiumcm.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.leetcode.Q21" />
+    <configuration name="Q23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.pentiumcm.leetcode.Q23" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -127,19 +200,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q21" />
-      <item itemvalue="Application.Byte_19_3" />
-      <item itemvalue="Application.Byte_19_5" />
-      <item itemvalue="Application.Byte_19_6" />
-      <item itemvalue="Application.Byte_19_7" />
+      <item itemvalue="Application.Q22" />
+      <item itemvalue="Application.DFS" />
+      <item itemvalue="Application.BFS" />
+      <item itemvalue="Application.BinaryTreeTraverse" />
+      <item itemvalue="Application.Q23" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Byte_19_7" />
-        <item itemvalue="Application.Byte_19_6" />
-        <item itemvalue="Application.Byte_19_5" />
-        <item itemvalue="Application.Byte_19_3" />
-        <item itemvalue="Application.Q21" />
+        <item itemvalue="Application.Q23" />
+        <item itemvalue="Application.BinaryTreeTraverse" />
+        <item itemvalue="Application.BFS" />
+        <item itemvalue="Application.DFS" />
+        <item itemvalue="Application.Q22" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +278,8 @@
       <workItem from="1586307693014" duration="10441000" />
       <workItem from="1586438181586" duration="6802000" />
       <workItem from="1586481718608" duration="21300000" />
+      <workItem from="1586614129635" duration="6521000" />
+      <workItem from="1586650993735" duration="16819000" />
     </task>
     <task id="LOCAL-00001" summary="去除out文件">
       <created>1586511473312</created>
@@ -227,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586511717500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加README文件的博客链接">
+      <created>1586521041348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586521041348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加README文件的博客链接">
+      <created>1586521137461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586521137461</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +324,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去除out文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="去除out文件" />
+    <MESSAGE value="添加README文件的博客链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加README文件的博客链接" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584276717892">
@@ -246,14 +336,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585618044609" />
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1586521040202">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1586521136417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586521040202" />
-    <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586499663797">
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586521136417" />
+    <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586682066563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="496" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586499663797" />
+    <state width="496" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586682066563" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584925441704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -266,42 +356,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="481" y="72" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586510609412" />
-    <state width="1323" height="386" key="GridCell.Tab.0.bottom" timestamp="1586505415380">
+    <state width="682" height="284" key="GridCell.Tab.0.bottom" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="375" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.984@1366.0.1366.984" timestamp="1585487223841" />
-    <state width="1323" height="386" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586505415380" />
-    <state width="1323" height="386" key="GridCell.Tab.0.center" timestamp="1586505415380">
+    <state width="682" height="284" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
+    <state width="682" height="284" key="GridCell.Tab.0.center" timestamp="1586681903883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="375" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.984@1366.0.1366.984" timestamp="1585487223841" />
-    <state width="1323" height="386" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586505415380" />
-    <state width="1323" height="386" key="GridCell.Tab.0.left" timestamp="1586505415380">
+    <state width="682" height="284" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586681903883" />
+    <state width="682" height="284" key="GridCell.Tab.0.left" timestamp="1586681903883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="375" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.984@1366.0.1366.984" timestamp="1585487223841" />
-    <state width="1323" height="386" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586505415380" />
-    <state width="1323" height="386" key="GridCell.Tab.0.right" timestamp="1586505415380">
+    <state width="682" height="284" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586681903883" />
+    <state width="682" height="284" key="GridCell.Tab.0.right" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="375" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.984@1366.0.1366.984" timestamp="1585487223841" />
-    <state width="1323" height="386" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586505415380" />
-    <state width="1323" height="193" key="GridCell.Tab.1.bottom" timestamp="1586504646481">
+    <state width="682" height="284" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
+    <state width="682" height="284" key="GridCell.Tab.1.bottom" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586504646481" />
-    <state width="1323" height="193" key="GridCell.Tab.1.center" timestamp="1586504646481">
+    <state width="682" height="284" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
+    <state width="682" height="284" key="GridCell.Tab.1.center" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586504646481" />
-    <state width="1323" height="193" key="GridCell.Tab.1.left" timestamp="1586504646481">
+    <state width="682" height="284" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
+    <state width="682" height="284" key="GridCell.Tab.1.left" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586504646481" />
-    <state width="1323" height="193" key="GridCell.Tab.1.right" timestamp="1586504646481">
+    <state width="682" height="284" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
+    <state width="682" height="284" key="GridCell.Tab.1.right" timestamp="1586681903884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586504646481" />
+    <state width="682" height="284" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586681903884" />
     <state x="410" y="77" key="RollbackChangesDialog" timestamp="1586511606407">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -310,10 +400,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585727528177" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586521043168">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586521138984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586521043168" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586521138984" />
     <state x="230" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585575502565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -438,6 +528,16 @@
           <url>file://$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_19_7.java</url>
           <line>41</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/indi/pentiumcm/search/BinaryTreeTraverse.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/indi/pentiumcm/leetcode/Q23.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

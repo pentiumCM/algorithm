@@ -1,4 +1,4 @@
-package indi.pentiumcm;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @date: 2020/3/15 20:08
  * @describe:
  */
-public class Q2 {
+public class Byte_20_Q2 {
 
     public static void main(String[] args) {
 

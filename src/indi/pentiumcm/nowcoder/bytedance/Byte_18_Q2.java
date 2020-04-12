@@ -1,4 +1,4 @@
-package indi.pentiumcm;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.*;
 
@@ -11,7 +11,7 @@ import java.util.*;
  * @date: 2020/3/12 11:21
  * @describe: 字节跳动 - 2018后端2面 -Q1
  */
-public class eighteen_Q2 {
+public class Byte_18_Q2 {
 
 
     //  判断颜色分布是否符合要求
