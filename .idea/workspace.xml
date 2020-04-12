@@ -65,22 +65,8 @@
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpBack.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/DpTSP.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/algorithm/indi/pentiumcm/thought/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/leetcode/Q22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/leetcode/Q23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BinaryTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/BinaryTreeTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/indi/pentiumcm/search/DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_20_Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q1Ref.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q2Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q2Ref.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/indi/pentiumcm/eighteen_Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/indi/pentiumcm/nowcoder/bytedance/Byte_18_Q3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +265,7 @@
       <workItem from="1586438181586" duration="6802000" />
       <workItem from="1586481718608" duration="21300000" />
       <workItem from="1586614129635" duration="6521000" />
-      <workItem from="1586650993735" duration="16819000" />
+      <workItem from="1586650993735" duration="17066000" />
     </task>
     <task id="LOCAL-00001" summary="去除out文件">
       <created>1586511473312</created>
@@ -316,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586521137461</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加BFS和DFS，二叉树遍历算法">
+      <created>1586682910170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586682910171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +318,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去除out文件" />
     <MESSAGE value="添加README文件的博客链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加README文件的博客链接" />
+    <MESSAGE value="添加BFS和DFS，二叉树遍历算法" />
+    <MESSAGE value="修改REAMNE文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改REAMNE文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584276717892">
@@ -336,10 +331,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585618044609" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1586682907545">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1586683095733">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586682907545" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586683095733" />
     <state width="496" height="466" key="DebuggerActiveHint" timestamp="1586682066563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -404,10 +399,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585727528177" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586682912317">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586683100693">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586682912317" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586683100693" />
     <state x="230" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585575502565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
