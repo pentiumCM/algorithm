@@ -1,8 +1,6 @@
 package indi.pentiumcm.sort;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
+import java.util.*;
 
 /**
  * @projName: algorithm
@@ -287,13 +285,28 @@ public class SortUtils {
 
     public static void main(String[] args) {
 
-//        int[] arr = {4, 5, 2, 6, 1, 3};
+
         int[] arr = {3, 4, 2, 3, 17, 5, 26, 4, 59, 8};
 
-        radioSort(arr);
+
+//        radioSort(arr);
 //        QuickSort(arr, 0, arr.length);
 
+//      jdk源码自带的排序方法
+        Integer[] arr1 = {3, 4, 2, 3, 17, 5, 26, 4, 59, 8};
+        Arrays.sort(arr1, new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o2 - o1;
+            }
+        });
+
+        List<Integer> list = new ArrayList<>(10);
+        for (int i = 0; i < 10; i++) {
+            int temp = (int) (1 + Math.random() * 30);
+            list.add(temp);
+        }
+        Collections.sort(list, Collections.reverseOrder());
+
     }
-
-
 }
