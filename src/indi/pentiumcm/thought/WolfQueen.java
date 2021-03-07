@@ -21,9 +21,6 @@ public class WolfQueen {
      */
     int[] array = new int[max];
 
-    public static void main(String[] args) {
-        new WolfQueen().check(0);
-    }
 
     /**
      * n 代表当前是第几个皇后
@@ -64,4 +61,10 @@ public class WolfQueen {
         }
         System.out.println();
     }
+
+
+    public static void main(String[] args) {
+        new WolfQueen().check(0);
+    }
+
 }

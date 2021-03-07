@@ -1,5 +1,6 @@
 package indi.pentiumcm.leetcode;
 
+import indi.pentiumcm.datastructure.TreeNode;
 import javafx.util.Pair;
 
 import java.util.LinkedList;
@@ -127,13 +128,3 @@ public class Q22 {
     }
 }
 
-//Definition for a binary tree node.
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-}
