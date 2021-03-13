@@ -1,4 +1,4 @@
-package indi.pentiumcm.thought;
+package indi.pentiumcm.thought.dp;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -39,16 +39,21 @@ public class DpFiboracci {
      * @return
      */
     public static long dpFibB2U(int n) {
+        // 1. 将原问题转化为子问题
+        // 求 fib(1)
+        // .........
+        // 求 fib(n)
 
-        // 1. 构建动态规划dp表
-        long dp[] = new long[n + 1];
+        // 2. 确定状态
+        // dp[i] 表示 fib(i) 的值
+        long[] dp = new long[n + 1];
 
-        // 2. 确定初始状态
+        // 3. 确定初始状态
         dp[1] = 1;
         dp[2] = 1;
 
-        for (int i = 3; i < n + 1; i++) {
-            // 3. 确定状态转移方程
+        // 4. 确定状态转移方程
+        for (int i = 3; i <= n; i++) {
             dp[i] = dp[i - 1] + dp[i - 2];
         }
         return dp[n];
@@ -75,7 +80,7 @@ public class DpFiboracci {
 
 
     public static void main(String[] args) {
-        int n = 40;
+        int n = 45;
 
         // 获取开始时间
         long startTime1 = System.currentTimeMillis();

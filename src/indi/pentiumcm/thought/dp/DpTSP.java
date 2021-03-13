@@ -1,4 +1,4 @@
-package indi.pentiumcm.thought;
+package indi.pentiumcm.thought.dp;
 
 import java.util.ArrayList;
 import java.util.HashMap;

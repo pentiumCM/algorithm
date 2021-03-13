@@ -1,4 +1,4 @@
-package indi.pentiumcm.thought;
+package indi.pentiumcm.thought.bt;
 
 import java.util.ArrayList;
 import java.util.List;
