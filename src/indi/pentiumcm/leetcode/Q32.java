@@ -19,14 +19,17 @@ public class Q32 {
     String[] items = {"a", "b", "c"};
 
     /**
+     * 深度优先进行搜索
+     *
      * @param currentIndex: 当前遍历到哪一位
      * @param n:            字符串总长度
      * @param path:         当前解
      * @param res:          全部解结果
      */
     public void dfs(int currentIndex, int n, Stack<String> path, List<List> res) {
-        if (currentIndex > n) {
 
+        // 1. 解空间
+        if (currentIndex > n) {
             List<String> tmps = new ArrayList<>();
             for (int i = 0; i < path.size(); i++) {
                 tmps.add(path.get(i));
