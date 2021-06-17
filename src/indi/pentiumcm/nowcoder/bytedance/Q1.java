@@ -1,10 +1,10 @@
-package indi.pentiumcm.nowcoder.bytedance.exam;
+package indi.pentiumcm.nowcoder.bytedance;
 
 import java.util.*;
 
 /**
  * @projName: algorithm
- * @packgeName: indi.pentiumcm.nowcoder.test
+ * @packgeName: indi.pentiumcm.nowcoder.indi.pentiumcm.subject.linkedlist.test
  * @className: Q1
  * @author： pentiumCM
  * @email： 842679178@qq.com

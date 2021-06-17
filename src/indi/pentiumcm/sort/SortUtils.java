@@ -286,7 +286,9 @@ public class SortUtils {
     public static void main(String[] args) {
 
 
-        int[] arr = {3, 4, 2, 3, 17, 5, 26, 4, 59, 8};
+        int[] arr = {4, 5, 1, 3, 2, 7};
+
+        shellSort(arr);
 
 
 //        radioSort(arr);

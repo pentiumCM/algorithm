@@ -16,12 +16,11 @@ public class Q15 {
      *
      * @param nums
      */
-    public void maxSubArray(int[] nums) {
+    public static void maxSubArray(int[] nums) {
 
 //      1. 原问题划分为子问题
 //      原问题：当序列长度为 n 时，求最大和
 //      子问题：当序列长度为 n -1 时，求最大和
-//      子问题：当序列长度为 n -2 时，求最大和
 
 //      2. 定义状态：dp[i]为 遍历到第 i 个元素时，子串的最大和
         int[] dp = new int[nums.length];
@@ -31,8 +30,7 @@ public class Q15 {
 
 //      4. 状态转移方程：dp[i] = max{dp[i-1] + nums[i], nums[i]}
         for (int i = 1; i < nums.length; i++) {
-            int maxSum = dp[i - 1] + nums[i] > nums[i] ? dp[i - 1] + nums[i] : nums[i];
-            dp[i] = maxSum;
+            dp[i] = Math.max(nums[i], dp[i - 1] + nums[i]);
         }
 
 //      遍历dp[]，dp[]最大的值即为连续子串的最大和
@@ -67,7 +65,7 @@ public class Q15 {
      * @param nums
      * @return
      */
-    public int maxSubArrayV2(int[] nums) {
+    public static int maxSubArrayV2(int[] nums) {
         int maxSum = 0, curSum = nums[0];
         for (int i = 1; i < nums.length; i++) {
             curSum = Math.max(nums[i], curSum + nums[i]);
@@ -77,7 +75,12 @@ public class Q15 {
     }
 
     public static void main(String[] args) {
-        int[] arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-        new Q15().maxSubArrayV2(arr);
+        int[] arr = {-2, 1, -3, 4};
+        int res = maxSubArrayV2(arr);
+
+        maxSubArray(arr);
+
+        System.out.println("");
+
     }
 }

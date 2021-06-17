@@ -1,7 +1,4 @@
-package indi.pentiumcm.thought.dp;
-
-import java.text.SimpleDateFormat;
-import java.util.Date;
+package indi.pentiumcm.tags.dp;
 
 /**
  * @projName: algorithm

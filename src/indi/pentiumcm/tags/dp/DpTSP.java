@@ -1,4 +1,4 @@
-package indi.pentiumcm.thought.dp;
+package indi.pentiumcm.tags.dp;
 
 import java.util.ArrayList;
 import java.util.HashMap;
